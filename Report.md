@@ -7,12 +7,12 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования  выявлены следующие дефекты:
-* [https://github.com/ller4ik/L1.2/issues/1](https://github.com/ller4ik/L1.2/issues/1)
+* [Неверная валидация номера банковской карты, когда ее номер не соответствует формату 16-ти цифр](https://github.com/ller4ik/L1.2/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Чек-лист [https://docs.google.com/spreadsheets/d/1ktUAt-T-pzPCXo6udWmM1bAzIuN1rRY52vD52tM5h1g/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ktUAt-T-pzPCXo6udWmM1bAzIuN1rRY52vD52tM5h1g/edit?usp=sharing) 
+* [Чек-лист](https://docs.google.com/spreadsheets/d/1ktUAt-T-pzPCXo6udWmM1bAzIuN1rRY52vD52tM5h1g/edit?usp=sharing) 
 
 В качестве тестовых данных использовались условия из чек-листа:
 * В соответствии с заполненными данными проверяемой банковской карты, получение ответа программы: валидный/невалидный номер банковской карты 
